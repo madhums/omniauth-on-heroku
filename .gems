@@ -1,2 +1,3 @@
 authlogic --version 2.1.6
 omniauth --version 0.1.6
+rails --version 2.3.8
