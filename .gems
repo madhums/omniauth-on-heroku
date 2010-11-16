@@ -8,3 +8,4 @@ actionpack --version 2.3.8
 activerecord --version 2.3.8
 activeresource --version 2.3.8
 activesupport --version 2.3.8
+i18n --version 0.4.2
