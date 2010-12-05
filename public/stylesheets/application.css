@@ -110,3 +110,13 @@
     color:#111;
     text-decoration:none;
   }
+  
+  .floatright {
+    float:right;
+    color:#aaa;
+    font-size:12px;
+  }
+  
+  .floatright a {
+    color:#555;
+  }
