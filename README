@@ -1,4 +1,4 @@
-== Omniauth on heroku
+==Omniauth on heroku
 
 This is a demo app for omniauth on heroku. Since heroku doesn't support filesystem storage, here I am demoing with the memcached storage.
 
